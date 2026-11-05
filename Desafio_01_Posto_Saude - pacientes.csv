@@ -1,0 +1,31 @@
+paciente_id,nome_ficticio,data_nascimento,sexo,bairro,tipo_convenio
+1,Brenda Alves,2026-08-17,N/B,Glória,SUS
+2,Davi Miguel Sousa,2026-02-01,F,Vila Pinho,Particular
+3,Aurora Pastor,2026-05-10,F,Ambrosina,SUS
+4,Henrique da Conceição,2026-06-05,F,Alto Vera Cruz,SUS
+5,Fernanda Silva,2026-07-20,N/B,São Paulo,SUS
+6,Hellena Machado,2026-07-01,N/B,Xangri-Lá,Particular
+7,Emanuel Sampaio,2026-05-11,F,Itatiaia,SUS
+8,Henrique Teixeira,2026-04-14,F,Buraco Quente,SUS
+9,Aylla Fogaça,2026-09-19,F,Varzea Da Palma,SUS
+10,Augusto Siqueira,2026-05-22,N/B,Casa Branca,SUS
+1,Brenda Alves,2026-08-17,Outro,Glória,SUS
+2,Davi Miguel Sousa,2026-02-01,F,Vila Pinho,Convenio
+3,Aurora Pastor,2026-05-10,M,Ambrosina,SUS
+4,Henrique da Conceição,2026-06-05,F,Alto Vera Cruz,SUS
+5,Fernanda Silva,2026-07-20,Outro,São Paulo,SUS
+6,Hellena Machado,2026-07-01,Outro,Xangri-Lá,Convenio
+7,Emanuel Sampaio,2026-05-11,Outro,Itatiaia,SUS
+8,Henrique Teixeira,2026-04-14,Outro,Buraco Quente,Particular
+9,Aylla Fogaça,2026-09-19,F,Varzea Da Palma,SUS
+10,Augusto Siqueira,2026-05-22,F,Casa Branca,SUS
+602.276.804-72,Caleb Cunha,2026-03-13,Outro,Vale Do Jatoba,SUS
+016.525.808-08,Sra. Manuela da Mota,2026-02-17,F,Vila Santo Antônio,Convenio
+300.868.759-81,Anna Liz Novaes,2026-04-01,M,Vila Betânia,SUS
+685.702.202-00,Mateus da Mota,2026-05-20,F,Floresta,SUS
+332.296.617-88,Ravi Garcia,2026-03-25,Outro,Nova Vista,SUS
+656.872.032-14,Levi Cunha,2026-07-21,Outro,Morro Dos Macacos,Convenio
+861.175.745-92,Sr. Davi Miguel Moraes,2026-06-02,Outro,Vila Rica,SUS
+016.740.395-81,Alexia Rodrigues,2026-08-10,Outro,Vila Jardim Alvorada,Particular
+877.321.077-30,Emanuelly Montenegro,2026-10-09,F,Santa Rosa,SUS
+685.131.999-31,Luna Mendonça,2026-01-06,F,Coração Eucarístico,SUS
